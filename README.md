@@ -1,4 +1,4 @@
-# Silahkan Recode 😂
+# mb
 
 [] pkg update && pkg upgrade
 
