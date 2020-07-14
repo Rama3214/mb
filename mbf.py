@@ -331,7 +331,7 @@ def menu():
  !m* !bMULTI BRUTEFORCE FACEBOOK
  !m* !cRozhak
  !m* !phttps://github.com/Rozak-bot
- !m* !phttps://facebook.com/groups/164201767529837
+ !m* !phttps://facebook.com/groups/1146261825726187
  !m* !phttps://Rozak.id.com
 !k.======================.
 |!h  AMBIL !mID!h DARI.....  !k|
